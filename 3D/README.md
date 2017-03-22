@@ -1,2 +1,9 @@
 a SketchUp model
-![3d_full](https://cloud.githubusercontent.com/assets/1547578/24176367/2cefe6c0-0ea4-11e7-878c-612bf6c1f3fe.PNG)
+
+TOP:
+
+![3D_TOP](https://cloud.githubusercontent.com/assets/1547578/24176430/9e1bb572-0ea4-11e7-9329-c43f81213086.PNG)
+
+Bottom:
+
+![3D_BOTTOM](https://cloud.githubusercontent.com/assets/1547578/24176462/c0ac119a-0ea4-11e7-9b3d-fe3e50e89d7b.PNG)
